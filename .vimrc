@@ -1,3 +1,5 @@
+"Vim configuration file
+
 " Plugin manager
 execute pathogen#infect()
 
