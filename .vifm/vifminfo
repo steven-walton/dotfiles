@@ -1,0 +1,184 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Bookmarks:
+'H
+	/home/steven/
+	../
+1508285710
+'b
+	/home/steven/bin/
+	../
+1508286564
+'h
+	/home/steven/
+	../
+1508286564
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/steven/Documents
+	../
+0
+d/home/steven
+	Downloads/
+3
+d/home/steven/Downloads
+	solarized-dark.vifm
+2
+d/home/steven
+	Downloads/
+25
+d/home/steven/.vifm
+	colors/
+2
+d/home/steven/.vifm/colors
+	Default
+1
+d/home/steven/.vifm
+	colors/
+2
+d/home/steven
+	.vifm/
+21
+d/home/steven/Downloads
+	solarized-dark.vifm
+2
+d/home/steven
+	Downloads/
+25
+d/home/steven/.vifm
+	colors/
+2
+d/home/steven/.vifm/colors
+	solarized-dark.vifm
+2
+d/home/steven/.vifm
+	colors/
+2
+d/home/steven
+	.vifm/
+21
+d/home
+	steven/
+1
+d/home/steven
+	.vifm/
+21
+d/home/steven/.vifm
+	Trash/
+1
+d/
+	home/
+5
+d/home/steven
+	.vifm/
+17
+d/home/steven/.vifm
+	colors/
+2
+d/home/steven/.vifm/colors
+	../
+0
+d/home/steven/.vifm
+	../
+0
+d/home/steven
+	.tmux/
+23
+d/home/steven/.tmux
+	../
+0
+d/home/steven
+	.vim/
+25
+d/home/steven/.vim
+	../
+0
+d/home/steven
+	.vifm/
+24
+d/home/steven/.vifm
+	colors/
+2
+d/home/steven/.vifm/colors
+	../
+0
+d/home/steven/.vifm
+	vifminfo
+4
+d/home/steven
+	.vifm/
+24
+d/home
+	steven/
+1
+d/home/steven
+	Desktop/
+1
+d
+
+# Right window history (oldest to newest):
+D/home/steven
+	../
+0
+D/home
+	steven/
+1
+D/bin
+	../
+0
+D/
+	bin/
+0
+D/bin
+	../
+0
+D
+
+# Command line history (oldest to newest):
+:colorscheme Default
+:zo
+:cd Downloads/
+:cd .vifm/
+:cd ~
+:Q
+:colorscheme solarized-dark
+:colorscheme solarized-dark.vifm
+:colorscheme solarized.vifm
+:colorscheme solarized
+:q
+:echo $MYVIFMRC
+:help
+:split
+:vsplit
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0
